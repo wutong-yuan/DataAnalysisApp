@@ -25,10 +25,10 @@ From: https://en.wikipedia.org/wiki/Faceted_search
 ## Sample queries 
 
 Business Query
-![](business_search.gif)
+![](business_search (1).gif)
 
 User Query
-![](user_query.gif)
+![](user_query (1).gif)
 
 
 
