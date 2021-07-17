@@ -25,9 +25,11 @@ From: https://en.wikipedia.org/wiki/Faceted_search
 ## Sample queries 
 
 Business Query
+
 ![](businessQuery.gif)
 
 User Query
+
 ![](userQuery.gif)
 
 
